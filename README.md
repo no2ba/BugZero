@@ -1,1 +1,3 @@
 # BugZero
+DEPI project 
+YAT379A_CAI2_SWD6_G7_DEPI2
